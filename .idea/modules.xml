@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/JobSchedulerDemo.iml" filepath="$PROJECT_DIR$/JobSchedulerDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JobSchedulerDemo.iml" filepath="$PROJECT_DIR$/.idea/JobSchedulerDemo.iml" />
+      <module fileurl="file://C:\Users\Helvi\Desktop\JobSchedulerDemo\JobSchedulerDemo.iml" filepath="C:\Users\Helvi\Desktop\JobSchedulerDemo\JobSchedulerDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\Helvi\Desktop\JobSchedulerDemo\app\app.iml" filepath="C:\Users\Helvi\Desktop\JobSchedulerDemo\app\app.iml" />
     </modules>
   </component>
 </project>
